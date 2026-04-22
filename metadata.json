@@ -1,0 +1,12 @@
+{
+  "name": "Kinetics FPS",
+  "description": "High-performance realistic FPS game built with React Three Fiber and Rapier WebAssembly physics.",
+  "requestFramePermissions": [
+    "pointerLock"
+  ],
+  "majorCapabilities": [
+    "3D Rendering",
+    "Physics Engine",
+    "Wasm Acceleration"
+  ]
+}
